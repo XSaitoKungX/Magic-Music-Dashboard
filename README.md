@@ -1,4 +1,4 @@
-# Magic-Music Bot Website
+# Magic-Music Bot Dashboard
 
 ### Create a fork and start a website for your discord bot!
 
